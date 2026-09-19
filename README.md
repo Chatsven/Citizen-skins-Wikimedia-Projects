@@ -20,9 +20,6 @@ This project is **NOT A FORK OF CITIZEN**, but rather a Citizen interface built 
 
 The `@updateURL` is configured in the metadata, and the script will automatically check for upgrades when the repository updates. Remember to increment the `@version` header when releasing a new version; otherwise, the update will not be triggered.
 
-It can also be deployed as a MediaWiki Gadget: Paste the CSS and subsequent JS from the `<style>` template literal into `MediaWiki:CitizenVector.css/.js`, and register it in `Gadgets-definition`.
-
-
 ## Compatibility
 
 * This project has only been verified for ZH Wikipedia; it may have compatibility issues in most languages.
