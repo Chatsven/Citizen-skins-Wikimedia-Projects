@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Citizen Vector 2022 → Citizen skin (rewrite v2.29) · 无 HotCat 适配
+// @name       Vector 2022 → Citizen skin
 // @namespace    CitizenVector
 // @version      2.50
-// @description  Rewrite Vector 2022 skin into Citizen look: header, page-actions, monochrome icons, TOC namespace guard, skin toggle, preferences alignment（不含 HotCat 分类药丸适配）
+// @description  
 // @author       CitizenVector
 // @updateURL    https://raw.githubusercontent.com/Chatsven/Citizen-skins-Wikimedia-Projects/main/citizen-wikimedia-projects.user.js
 // @downloadURL  https://raw.githubusercontent.com/Chatsven/Citizen-skins-Wikimedia-Projects/main/citizen-wikimedia-projects.user.js
