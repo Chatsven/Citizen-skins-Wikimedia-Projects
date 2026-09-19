@@ -16,7 +16,7 @@ This project is **NOT A FORK OF CITIZEN**, but rather a Citizen interface built 
 
 2. [Click here to install](https://raw.githubusercontent.com/Chatsven/Citizen-skins-Wikimedia-Projects/main/citizen-wikimedia-projects.user.js) — Tampermonkey will automatically open the installation page.
 
-3. Accessing any `*.wikipedia.org` page will activate the script; the script only runs on the Vector 2022 skin, skipping other skins.
+3. Accessing any `*.wikipedia.org` page will activate the script; the script only runs on the Vector 2022 skin, skipping other skin.
 
 The `@updateURL` is configured in the metadata, and the script will automatically check for upgrades when the repository updates. Remember to increment the `@version` header when releasing a new version; otherwise, the update will not be triggered.
 
