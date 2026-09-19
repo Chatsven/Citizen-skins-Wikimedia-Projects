@@ -6,7 +6,7 @@ This project is not a fork of Citizen, but rather a Citizen interface built usin
 
 ---
 
-## 安装
+## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (or Violentmonkey)
 
