@@ -2,9 +2,9 @@
 <h1>Citizen-Userscript-Wikimedia</h1>
 <p>
 
-A script that allows you to use Citizen Skin in Wikipedia and other Wikimedia projects.
+A script that allows you to use [Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) Skin in Wikipedia and other Wikimedia projects.
 
-This project is not a fork of Citizen, but rather a Citizen interface built using scripts on the Vector 2022 DOM.
+This project is **NOT A FORK OF CITIZEN**, but rather a Citizen interface built using scripts on the Vector 2022 DOM.
 
 <img width="1512" height="949" alt="image" src="https://github.com/user-attachments/assets/e54effe8-d21b-4053-a1b6-74aa8af14673" />
 
@@ -23,6 +23,13 @@ The `@updateURL` is configured in the metadata, and the script will automaticall
 It can also be deployed as a MediaWiki Gadget: Paste the CSS and subsequent JS from the `<style>` template literal into `MediaWiki:CitizenVector.css/.js`, and register it in `Gadgets-definition`.
 
 
+## Compatibility
+
+* This project has only been verified for ZH Wikipedia; it may have compatibility issues in most languages.
+
+* This project may have compatibility issues with gadgets.
+
+
 ## License
 
-Unless otherwise stated, this project is released under **CC BY-NC-SA 4.0**, and additional terms may apply.
+Unless otherwise stated, this project is released under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/deed.en), and additional terms may apply.
