@@ -1,10 +1,14 @@
-# Citizen-skins-Wikimedia
+<div align="center">
+<h1>Citizen-Userscript-Wikimedia</h1>
+<p>
 
 A script that allows you to use Citizen Skin in Wikipedia and other Wikimedia projects.
 
 This project is not a fork of Citizen, but rather a Citizen interface built using scripts on the Vector 2022 DOM.
 
----
+<img width="1512" height="949" alt="image" src="https://github.com/user-attachments/assets/e54effe8-d21b-4053-a1b6-74aa8af14673" />
+
+</div>
 
 ## Installation
 
@@ -20,4 +24,5 @@ It can also be deployed as a MediaWiki Gadget: Paste the CSS and subsequent JS f
 
 
 ## License
-- Unless otherwise stated, this project is released under **CC BY-NC-SA 4.0**, and additional terms may apply.
+
+Unless otherwise stated, this project is released under **CC BY-NC-SA 4.0**, and additional terms may apply.
