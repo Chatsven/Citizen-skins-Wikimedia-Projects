@@ -29,4 +29,4 @@ The `@updateURL` is configured in the metadata, and the script will automaticall
 
 ## License
 
-Unless otherwise stated, this project is released under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/deed.en), and additional terms may apply.
+Unless otherwise stated, this project is released under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en), and additional terms may apply.
